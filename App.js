@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
 
  },
  contenido:{
-  marginHorizontal:'2.5%'
+  marginHorizontal:'2.50%'
  }
 });
 
